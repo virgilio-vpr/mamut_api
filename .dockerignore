@@ -1,0 +1,12 @@
+.git
+.vscode
+.env
+.env.*
+!.env.example
+.phpunit.cache
+docs
+node_modules
+vendor
+database/*.sqlite
+public/build
+storage/*.key
